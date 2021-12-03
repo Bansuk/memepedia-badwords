@@ -4,7 +4,6 @@
     "**/.hub": true,
     "**/.vscode": true,
     "**/jest.config.js": true,
-    "**/tests*": true,
     "**/tsconfig.json": true
   }
 }
